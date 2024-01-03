@@ -11,7 +11,6 @@ public class InOrderTest {
     }
 
     public static void testInOrder() {
-        int prev = -1;
         int count = 0;
 
         while (count < 10) {
